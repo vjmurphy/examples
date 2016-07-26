@@ -2,6 +2,8 @@
 
 ## Example Pages
 
+These pages use a page-building system we created in Angular to enable people to rapidly create new pages. It would pull from templates created by the front-end team to assemble the pages. 
+
 ### Constant Contact Marketing Site
 * https://www.constantcontact.com/index.jsp
 * https://www.constantcontact.com/email-marketing
