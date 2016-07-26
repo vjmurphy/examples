@@ -20,7 +20,7 @@
 This is a header/footer combination that we used on third-party or secondary sites. Since they had to work on sites that we had no idea how they'd be coded, we pretty aggressively id'ed things.
 
 * http://static.ctctcdn.com/lp/external-sites/v1/ctct-header-footer.html
-# http://static.ctctcdn.com/lp/external-sites/v1/css/ctct-header-footer.css
+* http://static.ctctcdn.com/lp/external-sites/v1/css/ctct-header-footer.css
 
 And seen on these sites (though the web developers adjusted for their needs)
 
