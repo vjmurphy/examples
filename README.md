@@ -2,15 +2,17 @@
 
 ## Example Pages
 
-These pages use a page-building system we created in Angular to enable people to rapidly create new pages. It would pull from templates created by the front-end team to assemble the pages. 
+Much of the work I did on Constant Contact is still there: we used a Bootstrap-influenced system, but, over time, it because more customized.
+
+These pages use a page-building system we created in Angular to enable people to rapidly create new pages. It would pull from templates created by the front-end team to assemble the pages.
 
 ### Constant Contact Marketing Site
-* https://www.constantcontact.com/index.jsp
-* https://www.constantcontact.com/email-marketing
-* https://www.constantcontact.com/email-templates
-* https://www.constantcontact.com/partners/solution-providers
-* http://www.constantcontact.com/legal/security
-* http://www.constantcontact.com/legal/report-vulnerability
+* https://www.constantcontact.com/index.jsp?ModPagespeed=off
+* https://www.constantcontact.com/email-marketing?ModPagespeed=off
+* https://www.constantcontact.com/email-templates?ModPagespeed=off
+* https://www.constantcontact.com/partners/solution-providers?ModPagespeed=off
+* http://www.constantcontact.com/legal/security?ModPagespeed=off
+* http://www.constantcontact.com/legal/report-vulnerability?ModPagespeed=off
 
 ### Constant Contact About Site
 * http://about.constantcontact.com/company
@@ -30,10 +32,6 @@ And seen on these sites (though the web developers adjusted for their needs)
 * https://community.constantcontact.com/
 
 Also used on previous iterations of the blogs site and the now defunct investor relations site.
-
-Much of the work I did on Constant Contact is still there: we used a Bootstrap-influenced system, but, over time, it because more customized.
-
-* https://www.constantcontact.com/index.jsp?ModPagespeed=off (turning off mod_pagespeed makes it easier to read the code)
 
 ### CSS
 
