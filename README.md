@@ -12,7 +12,6 @@ These pages use a page-building system we created in Angular to enable people to
 * https://www.constantcontact.com/email-templates?ModPagespeed=off
 * https://www.constantcontact.com/partners/solution-providers?ModPagespeed=off
 * http://www.constantcontact.com/legal/security?ModPagespeed=off
-* http://www.constantcontact.com/legal/report-vulnerability?ModPagespeed=off
 
 ### Constant Contact About Site
 * http://about.constantcontact.com/company
