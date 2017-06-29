@@ -11,10 +11,13 @@ These pages use a page-building system we created in Angular to enable people to
 * https://www.constantcontact.com/email-marketing?ModPagespeed=off
 * https://www.constantcontact.com/email-templates?ModPagespeed=off
 * https://www.constantcontact.com/partners/solution-providers?ModPagespeed=off
-* http://www.constantcontact.com/legal/security?ModPagespeed=off
+* https://www.constantcontact.com/legal/security?ModPagespeed=off
 
 ### Constant Contact About Site
-* http://about.constantcontact.com/company
+* https://about.constantcontact.com/company
+
+### Constant Contact Brand Site
+* https://brand.constantcontact.com
 
 ## HTML/CSS/JS Samples
 
@@ -25,12 +28,9 @@ This is a responsive header/footer combination that we used on third-party or se
 * http://static.ctctcdn.com/lp/external-sites/v1/ctct-header-footer.html
 * http://static.ctctcdn.com/lp/external-sites/v1/css/ctct-header-footer.css
 
-And seen on these sites (though the web developers adjusted for their needs)
+And seen on third party sites (though the web developers adjusted for their needs)
 
 * https://jobs.constantcontact.com/
-* https://community.constantcontact.com/
-
-Also used on previous iterations of the blogs site and the now defunct investor relations site.
 
 ### CSS
 
@@ -48,6 +48,7 @@ Again, because of our collaborative environment, we'd adjust and rewrite each ot
 ## Performance
 
 Much of my work was related to performance and site health; for example, I implemented Google's mod_pagespeed module and helped to automate image optimization. While invisible, they helped with getting the site to download in less than 3 seconds, generally.
+
 I set up various Google Analytics and Omniture reports for improving site speed, as well as for reporting on 404 and 500 errors, then using Splunk to delve into those errors more closely. Due to my efforts, Constant Contact had very few 404s on the site, and any server errors were prioritized and fixed.
 
 I also created the CSS style guide for the site which we enforced using various Grunt tasks and code reviews.
