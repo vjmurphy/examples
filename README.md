@@ -6,13 +6,15 @@ Most of this site is either my work, or based on my work for the 2018/2019 redes
 
 * https://www.interactions.com/
 
-There are still things we are implementing to help with SEO and performance. We used LESS on the older site, and switched over to SCSS on the newer one. I set up and managed the Bitbucket repository for the site and documented the "rules of engagement" for other developers to give them an idea how the site worked. 
+There are still things we are implementing to help with SEO and performance. We used LESS on the older site, and switched over to SCSS on the newer one. I set up and managed the Bitbucket repository for the site and documented the "rules of engagement" for other developers to give them an idea how the site worked. We set up a decent flow for requests, as well. 
 
 The site is built using WordPress, with a custom theme and a few custom plugins (and a mess of other plugins). 
 
 ## Contant Contact
 
 Much of the work I did on Constant Contact is still there: we used a Bootstrap-influenced system, but, over time, it because more customized. These pages use a page-building system created in Angular to enable people to rapidly create new pages. It would pull from templates created by the front-end team to assemble the pages.
+
+We used Jira to manage tickets, and used Kanban as our agile methodology (which worked extremely well with the web work we did). 
 
 ### Constant Contact About Site
 * https://about.constantcontact.com/company
